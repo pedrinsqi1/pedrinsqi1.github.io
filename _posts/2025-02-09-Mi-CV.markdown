@@ -4,12 +4,7 @@ title:  "Mi CV"
 date:   2025-02-09 16:20:31 +0100
 categories: CV
 ---
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2025-02-09 16:20:31 +0100
-categories: jekyll update
----
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
